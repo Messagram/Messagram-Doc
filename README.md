@@ -11,22 +11,22 @@
 <p align="center">Messagram App</p>
 
 * [Messagram Backend](#messagram-server)
-        </td>
-        <td width=33% valign="top">
-* [Messagram Frontend](#messagram-client)
-        </td>
-        <td width=33% valign=top>
+* [Messagram API Endpoints](#messagram-api)
+* [Messagram Doc Generator](#doc-gen)
+* [Messagram Page + Web Client](#webclient)
+* [Messagram GUI Frontend](#messagram-client)
     * [Repo](#client-repo)
     * [Download](#client-download)
 * [Messagram Server Creator](#server-creator)
-* [Messagram API Endpoints](#messagram-api)
         </td>
         <td width=33% valign=top>
-* [Messagram Bot Wrapper](#bot-wrapper)
+<p aslign="center">Bot Wrapper</p>
+* Create your own bot(#createbot)
+* [List Of Languages](#bot-wrapper)
     * [C] ❌
-    * [C++] 🚧[Clever]
+    * [C++] ❌
     * [CS] 🚧[Erupt]
-    * [GO] 🚧[FB]
+    * [GO] ❌
     * [JS] ❌
     * [PY] 🚧[Erupt, lore]
     * [V] 🚧[Erupt]
