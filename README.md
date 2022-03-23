@@ -13,6 +13,7 @@
         <td width=33% valign="top">
 * [Messagram Frontend](#messagram-client)
         </td>
+        <td width=33% valign=top>
     * [Repo](#client-repo)
     * [Download](#client-download)
 * [Messagram Server Creator](#server-creator)
