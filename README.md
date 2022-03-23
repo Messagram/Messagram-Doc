@@ -22,7 +22,7 @@
         <td width=33% valign=top>
 <p aslign="center">Bot Wrapper</p>
 
-* Create your own bot(#createbot)
+* [Create your own bot](#createbot)
 * [List Of Languages](#bot-wrapper)
     * [C] ❌
     * [C++] ❌
