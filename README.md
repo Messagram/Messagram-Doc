@@ -21,8 +21,23 @@
         </td>
         <td width=33% valign=top>
 <p aslign="center">Bot Wrapper</p>
+
 * Create your own bot(#createbot)
 * [List Of Languages](#bot-wrapper)
+    * [C] ❌
+    * [C++] ❌
+    * [CS] ❌
+    * [GO] ❌
+    * [JS] ❌
+    * [PY] ❌
+    * [V] ❌
+    * [PHP] ❌
+        </td>
+        <td width=33% valign=top>
+<p align="center">Client Wrappers</p>
+
+* [Create your own Client](#createclient)
+* [List Of Languages](#clientlanglist)
     * [C] ❌
     * [C++] ❌
     * [CS] 🚧[Erupt]
